@@ -1,0 +1,68 @@
+{
+  "source": {
+    "name": "SVKM's NMIMS Global University, Dhule",
+    "website": "https://www.svkmnmimsgu.ac.in/",
+    "verified": true
+  },
+  "departments": [
+    {
+      "name": "School of Technology, Management & Engineering",
+      "description": "Offering B.Tech, Dual Degree B.Tech+MBA, MCA, M.Tech, and Ph.D. programs.",
+      "btech_courses": [
+        "B.Tech Civil Engineering",
+        "B.Tech Computer Engineering",
+        "B.Tech Computer Science & Engineering - AI & ML",
+        "B.Tech Computer Science & Engineering - Data Science",
+        "B.Tech Electrical Engineering",
+        "B.Tech Information Technology",
+        "B.Tech Mechanical Engineering"
+      ],
+      "dual_degree_courses": [
+        "B.Tech + MBA - Computer Engineering",
+        "B.Tech + MBA - Computer Science & Engineering - AI & ML",
+        "B.Tech + MBA - Computer Science & Engineering - Data Science",
+        "B.Tech + MBA - Information Technology"
+      ],
+      "postgraduate_courses": [
+        "MCA - Master of Computer Applications",
+        "M.Tech Civil Engineering",
+        "M.Tech Computer Engineering",
+        "M.Tech Electrical Engineering",
+        "M.Tech Information Technology",
+        "M.Tech Mechanical Engineering"
+      ],
+      "doctoral_courses": [
+        "Ph.D. in Technology / Engineering"
+      ]
+    },
+    {
+      "name": "School of Pharmacy & Technology Management",
+      "description": "Offering Diploma, Undergraduate, Dual Degree, Postgraduate, and Ph.D. in Pharmacy.",
+      "diploma_courses": [
+        "D.Pharm - Diploma in Pharmacy"
+      ],
+      "undergraduate_courses": [
+        "B.Pharm - Bachelor of Pharmacy",
+        "B.Pharm + MBA - Pharma Tech",
+        "B.Tech - Cosmetic Technology"
+      ],
+      "postgraduate_courses": [
+        "M.Pharm - Pharmaceutics",
+        "M.Pharm - Pharmaceutical Quality Assurance",
+        "M.Pharm - Pharmacology",
+        "M.Pharm - Pharmaceutical Chemistry"
+      ],
+      "doctoral_courses": [
+        "Ph.D. in Pharmaceutical Sciences"
+      ]
+    },
+    {
+      "name": "School of Commerce",
+      "description": "Offering undergraduate programs in management and applications.",
+      "undergraduate_courses": [
+        "Bachelor of Business Administration (BBA)",
+        "Bachelor in Computer Applications (BCA)"
+      ]
+    }
+  ]
+}

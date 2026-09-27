@@ -1,0 +1,31 @@
+{
+  "source": {
+    "name": "SVKM's NMIMS Global University, Dhule",
+    "website": "https://www.svkmnmimsgu.ac.in/school-of-pharmacy-technology-management",
+    "verified": true
+  },
+  "school": "School of Pharmacy & Technology Management",
+  "short_name": "SPTM",
+  "campus": "SVKM's NMIMS Global University, Dhule",
+  "diploma_programs": [
+    "D.Pharm - Diploma in Pharmacy"
+  ],
+  "undergraduate_programs": [
+    "B.Pharm - Bachelor of Pharmacy",
+    "B.Pharm + MBA - Pharma Tech",
+    "B.Tech - Cosmetic Technology"
+  ],
+  "postgraduate_programs": [
+    "M.Pharm - Pharmaceutics",
+    "M.Pharm - Pharmaceutical Quality Assurance",
+    "M.Pharm - Pharmacology",
+    "M.Pharm - Pharmaceutical Chemistry"
+  ],
+  "doctoral_programs": [
+    "Ph.D. in Pharmaceutical Sciences"
+  ],
+  "contact": {
+    "landline": "02562 350640",
+    "mobile": ["91589 47999", "86685 01496"]
+  }
+}

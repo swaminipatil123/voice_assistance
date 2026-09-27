@@ -1,0 +1,40 @@
+{
+  "source": {
+    "name": "SVKM's NMIMS Global University, Dhule",
+    "website": "https://www.svkmnmimsgu.ac.in/school-of-technology-management-engineering/programs",
+    "verified": true
+  },
+  "school": "School of Technology, Management & Engineering",
+  "short_name": "STME",
+  "campus": "SVKM's NMIMS Global University, Dhule",
+  "btech_programs": [
+    "B.Tech Civil Engineering",
+    "B.Tech Computer Engineering",
+    "B.Tech Computer Science & Engineering - AI & ML",
+    "B.Tech Computer Science & Engineering - Data Science",
+    "B.Tech Electrical Engineering",
+    "B.Tech Information Technology",
+    "B.Tech Mechanical Engineering"
+  ],
+  "dual_degree_programs": [
+    "B.Tech + MBA - Computer Engineering",
+    "B.Tech + MBA - Computer Science & Engineering - AI & ML",
+    "B.Tech + MBA - Computer Science & Engineering - Data Science",
+    "B.Tech + MBA - Information Technology"
+  ],
+  "postgraduate_programs": [
+    "Master of Computer Applications (MCA)",
+    "M.Tech Civil Engineering",
+    "M.Tech Computer Engineering",
+    "M.Tech Electrical Engineering",
+    "M.Tech Information Technology",
+    "M.Tech Mechanical Engineering"
+  ],
+  "doctoral_programs": [
+    "Ph.D. in Technology / Engineering"
+  ],
+  "contact": {
+    "landline": "02562 350620",
+    "mobile": ["94256 85966", "97644 05069"]
+  }
+}

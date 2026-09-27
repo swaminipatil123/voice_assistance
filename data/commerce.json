@@ -1,0 +1,18 @@
+{
+  "source": {
+    "name": "SVKM's NMIMS Global University, Dhule",
+    "website": "https://www.svkmnmimsgu.ac.in/",
+    "verified": true
+  },
+  "school": "School of Commerce",
+  "short_name": "SOC",
+  "campus": "SVKM's NMIMS Global University, Dhule",
+  "undergraduate_programs": [
+    "Bachelor of Business Administration (BBA)",
+    "Bachelor in Computer Applications (BCA)"
+  ],
+  "contact": {
+    "landline": "02562 350600",
+    "mobile": ["92721 10073", "87887 01642"]
+  }
+}

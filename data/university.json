@@ -1,0 +1,23 @@
+{
+  "source": {
+    "name": "SVKM's NMIMS Global University, Dhule",
+    "website": "https://www.svkmnmimsgu.ac.in/",
+    "verified": true
+  },
+  "university_name": "SVKM's NMIMS Global University",
+  "campus": "Dhule",
+  "location": "Survey No. 499, Plot No 01, 02 & 03 Behind Gurudwara, Mumbai-Agra National Highway, Dhule - 424001, Maharashtra, India",
+  "city": "Dhule",
+  "district": "Dhule",
+  "state": "Maharashtra",
+  "country": "India",
+  "website": "https://www.svkmnmimsgu.ac.in/",
+  "website_spoken": "svkmnmimsgu.ac.in",
+  "about": "SVKM's NMIMS Global University, Dhule is an esteemed higher education institution in Maharashtra offering industry-aligned education in Engineering, Pharmacy, and Commerce.",
+  "schools": [
+    "School of Commerce",
+    "School of Technology, Management & Engineering",
+    "School of Pharmacy & Technology Management"
+  ],
+  "campus_note": "This project and assistant exclusively represent the Dhule campus. It does not represent NMIMS Shirpur or Babulde campus."
+}
